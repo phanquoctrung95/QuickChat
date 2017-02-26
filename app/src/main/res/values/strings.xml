@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickChat</string>
+    <string name="demo">Demo</string>
+    <string name="login">Login</string>
+</resources>

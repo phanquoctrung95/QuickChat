@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "581092359186",
+    "firebase_url": "https://chat-47acb.firebaseio.com",
+    "project_id": "chat-47acb",
+    "storage_bucket": "chat-47acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581092359186:android:66f85c9100545ddd",
+        "android_client_info": {
+          "package_name": "com.example.blink.quickchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581092359186-lmuq55hg4n8g5usl5djpgqgcv33atba1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blink.quickchat",
+            "certificate_hash": "f102ee91cb982a83bdc05c2bd273a76603459a19"
+          }
+        },
+        {
+          "client_id": "581092359186-aqhqghon3qhea22kul3vuo0qvibk3dnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXG5JPaIaBZ7XORczvW3ATPDm6p_AbC4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581092359186-aqhqghon3qhea22kul3vuo0qvibk3dnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
